@@ -18,7 +18,7 @@ Install dependencies:
 pip install yfinance matplotlib pandas tkinter
 Run the app:
 
-python stock_visualizer.py
+python final.py
 🖥️ Usage
 Add stocks: Enter symbols (e.g., AAPL) and click Add Stock.
 
